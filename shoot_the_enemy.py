@@ -189,3 +189,4 @@ while running:
 
     show_score(10, 10)
     pygame.display.update()
+    #comment add for demo
